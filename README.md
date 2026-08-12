@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/gK5243G.gif" width="100%" alt="Spider-Verse Cyberpunk Banner">
+<imgsrc="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ2bWZweW9qZnd2YndpMG1zYmF4dDRuZHhzMnZjY2pzaHc5NjhkdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R2yYkZzjDgWEE/giphy.gif" width="100%" alt="Spider-Verse Cyberpunk Banner">
 
 <br>
 
