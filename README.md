@@ -67,3 +67,84 @@ arthur@tech-os:~$ cat career_goals.txt
 ]
 arthur@tech-os:~$ ./execute_growth_plan.sh
 >>> Fetching new knowledge...
+
+### 📂 `[DATABASE]: RECENT_PROJECTS`
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b>📁 Projeto 1: Gerenciador de Tarefas</b><br>
+        <i> aplicação de linha de comando para criar, listar e concluir tarefas; primeiro projeto próprio em Python (Python).</i><br><br>
+        <a href="github.com/arthurcmt8/Gerenciador-de-tarefas"><img src="https://img.shields.io/badge/Ver_Repositório-333333?style=for-the-badge&logo=github" alt="Repo"></a>
+      </td>
+      <td align="center" width="50%">
+        <b>📁 Projeto 2: Sistema Bancário </b><br>
+        <i> simulação de operações bancárias (depósito, saque e consulta de saldo) via lógica de programação. (JS/Python/Java).</i><br><br>
+        <a href="github.com/arthurcmt8/Sistema-bancario"><img src="https://img.shields.io/badge/Ver_Repositório-333333?style=for-the-badge&logo=github" alt="Repo"></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 `[TELEMETRY]: GITHUB_STATS`
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurcmt8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=0366D6&text_color=A9B2C3)](https://github.com/arthurcmt8)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcmt8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=A9B2C3)](https://github.com/arthurcmt8)
+
+<br><br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arthurcmt8&theme=tokyonight&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=0366D6&sideLabels=A9B2C3&sideNums=A9B2C3&currStreakNum=FFFFFF)](https://github.com/arthurcmt8)
+
+<br><br>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurcmt8&bg_color=0D1117&color=A9B2C3&line=0366D6&point=FFFFFF&area=true&hide_border=true)](https://github.com/arthurcmt8)
+
+</div>
+
+---
+
+### 🏆 `[ACHIEVEMENTS]: TROPHIES`
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=arthurcmt8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&title-text-color=FFFFFF)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 🐍 `[CONTRIBUTIONS]: ACTIVITY_SNAKE`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurcmt8/arthurcmt8/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurcmt8/arthurcmt8/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthurcmt8/arthurcmt8/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 📡 `[COMMUNICATIONS]: CONTACT_ME`
+
+<div align="center">
+  <p>Estou à procura de uma oportunidade profissional. Vamos conversar?</p>
+  
+  <a href="https://linkedin.com/in/arthur-cavalcante-55886a2a9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:arthurcmt8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%"/>
+</div>
