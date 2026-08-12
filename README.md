@@ -68,6 +68,8 @@ arthur@tech-os:~$ cat career_goals.txt
 arthur@tech-os:~$ ./execute_growth_plan.sh
 >>> Fetching new knowledge...
 
+````
+
 ### 📂 `[DATABASE]: RECENT_PROJECTS`
 
 <div align="center">
