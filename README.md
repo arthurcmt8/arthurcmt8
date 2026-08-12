@@ -31,8 +31,8 @@
 > whoami --verbose
 
 perfil:
-  nome: "SEU_NOME_AQUI"
-  codinome: "@SEU_USUARIO_GITHUB"
+  nome: "Arthur Cavalcante"
+  codinome: "arthurcmt8"
   funcao: "Software / AI Systems Engineer"
   localizacao: "Fortaleza, Ceará, BR"
   idiomas: ["Português", "English", "Python", "JavaScript"]
