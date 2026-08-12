@@ -1,7 +1,15 @@
+<div align="right">
+<img src="assets/teia-canto.svg" width="140"/>
+</div>
+
 <div align="center">
 
 <!-- BANNER PRINCIPAL - EFEITO DE BOOT DO SISTEMA (TEMA HOMEM-ARANHA) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,50:8b0000,100:0d1b3e&height=280&section=header&text=WEB.INIT()%20//%20ARTHUR&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Friendly%20Neighborhood%20Developer%20%7C%7C%20Booting...&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://img.shields.io/badge/🕸️_SENTIDOS_ARANHA-ATIVADOS-E62429?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/IDENTIDADE_SECRETA-Arthur_Cavalcante-1B3E92?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/BAIRRO-Queens_(Fortaleza_edition)-E62429?style=for-the-badge&labelColor=0d0d0d" />
 
 <!-- TYPING ANIMATION -->
 <a href="#">
@@ -18,7 +26,7 @@
 
 <br/>
 
-🕸️ ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── 🕸️
+<img src="assets/teia-divisor.svg" width="100%" height="40"/>
 
 ## 🕷️ SOBRE MIM
 
@@ -47,6 +55,10 @@ sobre:
     oportunidade para aprender, crescer e evoluir
     como desenvolvedor.
   status: "🟢 Disponível para estágio / vaga junior"
+  poderes:
+    - "Foco de nível aracnídeo em resolver problemas"
+    - "Reflexos rápidos para debugar (em treinamento)"
+    - "Sentido de código-aranha: ainda calibrando 🕸️"
 ```
 
 </td>
@@ -70,7 +82,7 @@ sobre:
 </tr>
 </table>
 
-🕸️ ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── 🕸️
+<img src="assets/teia-divisor.svg" width="100%" height="40"/>
 
 ## 🕷️ TECH STACK
 
@@ -88,7 +100,7 @@ sobre:
 
 </div>
 
-🕸️ ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── 🕸️
+<img src="assets/teia-divisor.svg" width="100%" height="40"/>
 
 ## 🕷️ FERRAMENTAS & AMBIENTE
 
@@ -103,7 +115,7 @@ sobre:
 
 </div>
 
-🕸️ ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── 🕸️
+<img src="assets/teia-divisor.svg" width="100%" height="40"/>
 
 ## 🕷️ PROJETOS EM DESTAQUE
 
@@ -128,7 +140,7 @@ sobre:
 
 </div>
 
-🕸️ ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── 🕸️
+<img src="assets/teia-divisor.svg" width="100%" height="40"/>
 
 ## 🕷️ OBJETIVOS ATUAIS
 
@@ -152,7 +164,7 @@ arthur@web-shooter:~$ ./swing_to_next_mission.sh
 
 </div>
 
-🕸️ ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── 🕸️
+<img src="assets/teia-divisor.svg" width="100%" height="40"/>
 
 ## 🕷️ GITHUB ANALYTICS
 
@@ -171,7 +183,7 @@ arthur@web-shooter:~$ ./swing_to_next_mission.sh
 
 </div>
 
-🕸️ ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── 🕸️
+<img src="assets/teia-divisor.svg" width="100%" height="40"/>
 
 ## 🕷️ TROPHIES
 
@@ -181,7 +193,7 @@ arthur@web-shooter:~$ ./swing_to_next_mission.sh
 
 </div>
 
-🕸️ ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── 🕸️
+<img src="assets/teia-divisor.svg" width="100%" height="40"/>
 
 ## 🕷️ CONTRIBUTION SNAKE
 
@@ -195,7 +207,7 @@ arthur@web-shooter:~$ ./swing_to_next_mission.sh
 
 </div>
 
-🕸️ ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── 🕸️
+<img src="assets/teia-divisor.svg" width="100%" height="40"/>
 
 ## 🕷️ CONECTE-SE COMIGO
 
@@ -216,7 +228,9 @@ arthur@web-shooter:~$ ./swing_to_next_mission.sh
 
 </div>
 
-🕸️ ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── ── 🕸️
+<div align="left">
+<img src="assets/teia-canto.svg" width="120" style="transform: rotate(180deg);"/>
+</div>
 
 <div align="center">
 
