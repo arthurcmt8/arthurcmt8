@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/arthurcmt8"><img src="https://img.shields.io/badge/Status-Looking_for_Internship_/_Junior_Role-0366D6?style=for-the-badge&logo=github&logoColor=white" alt="Status"></a>
-  <a href="#"><img src="https://img.shields.io/badge/English-Fluent_/_Bilingual-2DA44E?style=for-the-badge&logo=duolingo&logoColor=white" alt="English"></a>
+  <a href="#"><img src="https://img.shields.io/badge/English-Intermediate_/_Bilingual-2DA44E?style=for-the-badge&logo=duolingo&logoColor=white" alt="English"></a>
   <a href="#"><img src="https://img.shields.io/badge/Located-Fortaleza_/_Brazil-CB3C3C?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"></a>
 </p>
 
