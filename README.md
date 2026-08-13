@@ -24,7 +24,7 @@
 
 Prazer! Eu sou o **Arthur Cavalcante**. Sou um desenvolvedor em início de carreira, movido por curiosidade e pela busca constante de conhecimento técnico.
 
-Atualmente, estou focado em construir uma base sólida em **ciência da computação** e nas minhas principais linguagens de interesse (**JavaScript, Python e Java**). Meu objetivo principal é encontrar uma oportunidade como **Estagiário ou Desenvolvedor Júnior**, onde eu possa aplicar meu conhecimento, aprender com a equipe e crescer profissionalmente. Sou fluente em inglês, o que facilita minha comunicação em ambientes globais.
+Atualmente, estou focado em construir uma base sólida em **ciência da computação** e nas minhas principais linguagens de interesse (**JavaScript, Python e Java**). Meu objetivo principal é encontrar uma oportunidade como **Estagiário ou Desenvolvedor Júnior**, onde eu possa aplicar meu conhecimento, aprender com a equipe e crescer profissionalmente. Tenho nivel intermediário em inglês, o que facilita minha comunicação em ambientes globais.
 
 ---
 
