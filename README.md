@@ -116,13 +116,15 @@ arthur@tech-os:~$ ./execute_growth_plan.sh
 
 ---
 
+<!--
 ### 🏆 `[ACHIEVEMENTS]: TROPHIES`
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arthurcmt8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&title-text-color=FFFFFF&v=1" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=arthurcmt8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&title-text-color=FFFFFF" alt="Trophies" />
   </a>
 </p>
+-->
 
 ---
 
